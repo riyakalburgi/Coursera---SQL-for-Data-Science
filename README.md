@@ -2,7 +2,7 @@ COURSERA - SQL FOR DATA SCIENCE
 
 Course Link : https://www.coursera.org/learn/sql-for-data-science
 
-Weekly assignment and quizzes : University of Buffalo
+Weekly assignment and quizzes : University of California, Davis
 
 Course Description:
 
